@@ -1,7 +1,7 @@
 from scapy.all import *
 
 # Target IP address
-target_ip = "20.20.20.5"
+target_ip = "20.20.20.10"
 
 # Port range to scan
 port_range = [1, 65535]
